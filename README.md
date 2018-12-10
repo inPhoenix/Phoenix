@@ -9,6 +9,8 @@
 
     Public repository for inPhoenix Project
 
+<img title="logo" src="public/preview.jpg" width="60%" alt='demo'>
+
 ### The stack
 - [x] React Fiber
 - [x] React Router
